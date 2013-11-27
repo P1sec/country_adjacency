@@ -1,7 +1,7 @@
 Country adjacency dataset
 =========================
 
-Author: Omar Awile (omar.awile@gmail.com)
+Author: Omar Awile (omar@p1sec.com)
 Date:   27.11.2013
 
 JSON formatted datasets of country neighborhoods (country adjancencies).
@@ -26,3 +26,7 @@ The data is formatted as follows:
 
 Finally, if CountryB is element of CountryA's neighbor list, then CountryA is
 element of CountryB's neighbor list.
+
+Feedback and Questions to:
+Omar Awile (omar@p1sec.com)
+Philippe Langlois (phil@p1sec.com)
