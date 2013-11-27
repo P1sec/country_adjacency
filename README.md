@@ -1,4 +1,4 @@
 country_adjacency
 =================
 
-Country adjacency datasets
+Country adjacency dataset
